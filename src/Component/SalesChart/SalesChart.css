@@ -1,0 +1,8 @@
+.ChartContainer{
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    height: 50%;
+    padding: 50px 50px 50px 50px;
+}
